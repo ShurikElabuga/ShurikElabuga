@@ -1,11 +1,15 @@
 ### Здравствуйте! :hand:
-Меня зовут Александр. Мне 47 лет. Образование - высшее - Инженер по эксплуатации летательных аппаратов и авиационных двигателей. Был профессиональным военным. 
-Служил в ВВС на различных должностях инженерно-авиационной службы. Считаю, что в армии реализовался полностью :muscle:. Пытался найти работу по душе в гражданской авиации.
-Без особых успехов. Заинтересовался программированием. В настоящее время изучаю Java ☕ на курсе [Job4j](https://job4j.ru/). Надеюсь в дальнейшем найти работу в этой сфере.
+Меня зовут Александр. Мне 47 лет.
+
+В настоящее время изучаю Java ☕ на курсе [Job4j](https://job4j.ru/). Надеюсь в дальнейшем найти работу в этой сфере.
 
 
 
 ![image](https://github.com/ShurikElabuga/ShurikElabuga/assets/124162973/4dcefa21-5df8-4554-945b-52ee907a9535)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=ShurikElabuga&hide=stars,prs,issues,contribs)
+-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShurikElabuga&layout=compact)](https://github.com/ShurekElabuga/github-readme-stats)
 
 
 <!--

@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGt6NWYycjAxMmZqMmY4Nm5oeTN3cHozZnN4YzRodTE2NW84OXlzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/n1NLjLW22bhxUKCfyD/giphy. gifwidth="100"/>
+</div>
+  
 ### Здравствуйте! :hand:
 Меня зовут Александр. Мне 47 лет.
 

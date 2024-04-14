@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGt6NWYycjAxMmZqMmY4Nm5oeTN3cHozZnN4YzRodTE2NW84OXlzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/n1NLjLW22bhxUKCfyD/giphy. gifwidth="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGt6NWYycjAxMmZqMmY4Nm5oeTN3cHozZnN4YzRodTE2NW84OXlzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/n1NLjLW22bhxUKCfyD/giphy.gif" width="100"/>
 </div>
   
 ### Здравствуйте! :hand:
@@ -10,6 +10,8 @@
 
 
 ![image](https://github.com/ShurikElabuga/ShurikElabuga/assets/124162973/4dcefa21-5df8-4554-945b-52ee907a9535)
+![Static Badge](https://img.shields.io/badge/java-%3E%3D%208-orange)
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ShurikElabuga&hide=stars,prs,issues,contribs)
 -
